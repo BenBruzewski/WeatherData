@@ -1,7 +1,7 @@
 # WeatherData
 This is a project from my Embedded Systems Lab course. It's made using C and intended for the MSP430FG4618 microcontroller.
 
-Detailed Report can be found here: https://drive.google.com/file/d/1Tga_IXkrZ_jU9YsCswrhX6Pg-C61xenf/view?usp=sharing
+Detailed Report can be found [here](https://drive.google.com/file/d/1Tga_IXkrZ_jU9YsCswrhX6Pg-C61xenf/view?usp=sharing)
 
 ## Detailed Information:
 
