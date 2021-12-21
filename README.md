@@ -13,8 +13,7 @@ The .h file has 3 arrays, each with their own purpose stated below:
   ● WeatherI will be used by the LCD screen since the preset LCD functions take integer input.
 
 My program interfaces with the 3 LEDs, the LCD screen, and the 2 switches connected to the
-MSP430FG4618. Depending on the weather conditions from the text file, my displays will emit various
-data. 
+MSP430FG4618. Depending on the weather conditions from the text file, the MSP430 will activate one of its colored LEDs as shown below:
 
 Temperature Data: 
 - 🟩 0-40F
