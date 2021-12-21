@@ -1,7 +1,7 @@
 # WeatherData
 This is a project from my Embedded Systems Lab course. It's made using C and intended for the MSP430FG4618 microcontroller.
 
-## - Detailed Information:
+## Detailed Information:
 
 For my final project, I have taken a text file from https://www.visualcrossing.com (weather data →
 Download data for free → Make account → Download text file).
